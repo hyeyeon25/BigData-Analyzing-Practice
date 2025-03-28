@@ -23,7 +23,7 @@ while choice != 5:
     elif choice == 2:
         OldName = input("변경할 친구의 이름 입력>> ")
         if OldName in friend:               # 변경할 이름이 리스트에 있는 경우
-            no = friend.index(OldName)      #방번호 찾기
+            no = friend.index(OldName)      # 방번호 찾기
             NewName = input("새로운 이름 입력>> ")
             friend[no] = NewName
             print("이름 변경 완료!")
