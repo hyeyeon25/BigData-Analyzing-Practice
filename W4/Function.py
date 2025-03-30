@@ -1,5 +1,4 @@
-# 정수 2개를 입력 받아 사칙연산 하는 clac(num1, num2, op)함수 선언
-# 연산자도 키보드로부터 입력
+# 두 정수와 연산자 입력 받아 사칙연산하는 clac(num1, num2, op)함수 작성
 
 def calc(num1, num2, op):
     result=0
