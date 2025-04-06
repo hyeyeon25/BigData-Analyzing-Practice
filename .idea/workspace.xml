@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0972f4e-9a9b-47ec-8ca4-5ec6ed7c932a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/W5/tk_Radiobutton.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4/Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/W4/Function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4/Temperature.py" beforeDir="false" afterPath="$PROJECT_DIR$/W4/Temperature.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.250320_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.250320_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.250320_3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.250320_1.executor": "Run",
+    "Python.250320_2.executor": "Run",
+    "Python.250320_3.executor": "Run",
+    "Python.tk_Radiobutton.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\chohy\PycharmProjects\빅데이터분석실습\250320" />
@@ -76,6 +76,8 @@
       <workItem from="1742995726793" duration="62000" />
       <workItem from="1742996017522" duration="755000" />
       <workItem from="1743165718149" duration="2407000" />
+      <workItem from="1743638951791" duration="2735000" />
+      <workItem from="1743907600332" duration="307000" />
     </task>
     <servers />
   </component>
