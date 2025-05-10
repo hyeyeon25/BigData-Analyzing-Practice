@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0972f4e-9a9b-47ec-8ca4-5ec6ed7c932a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI/label.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6/RPS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W6/tkinter_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W7/7_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W7/Menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W9/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W9/lms1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W9/lms2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/puppy.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W10/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W9/9_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/빅데이터분석실습.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/빅데이터분석실습.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W5/tk_Radiobutton.py" beforeDir="false" afterPath="$PROJECT_DIR$/W5/tk_Radiobutton.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,6 +158,7 @@
       <workItem from="1745423474243" duration="9262000" />
       <workItem from="1746061099132" duration="786000" />
       <workItem from="1746291942784" duration="5926000" />
+      <workItem from="1746662618178" duration="2864000" />
     </task>
     <servers />
   </component>
